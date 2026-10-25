@@ -1,0 +1,1 @@
+# scanverter-privacy
